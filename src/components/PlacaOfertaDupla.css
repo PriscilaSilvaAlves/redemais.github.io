@@ -1,0 +1,87 @@
+.sloganOfertaDupla{
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    width: 210mm;
+    height: 28.5mm;
+    font-size: 100px;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerOfertaDupla{
+    width: 210mm;
+    height: 10mm;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tituloOfertaDupla{
+    padding-top: 10px;
+    width: 210mm;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    display: flex;
+    font-family: "Archivo Black", sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.cifraoOfertaDupla{
+    background-color: white;
+    width: 210mm;
+    font-size: 35px;
+    color: #282c34;;
+    display: flex;
+    align-items: left;
+     font-family: "Archivo Black", sans-serif;
+}
+
+.precoOfertaDupla{
+    width: 210mm;
+    background-color: white;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    color: red;
+    justify-content: center;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    
+}
+.precoOfertaRealDupla{
+    font-size: 300px;
+    align-self: flex-start;
+    line-height: 1;
+    margin-top: -40px;
+}
+.precoOfertaCentavosDupla{
+    font-size: 60px;
+}
+.placa-ofertaDupla{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    gap: 0;
+    text-align: center;
+}
+.corpoOfertaDupla{
+    display: flex;
+    flex-direction: column;
+    height: 110mm;
+    width: 210mm;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

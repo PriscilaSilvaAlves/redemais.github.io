@@ -1,0 +1,14 @@
+.info{
+    width: 350px;
+    font-size: 15px;
+    text-align: justify;
+}
+.alerta{
+    color: yellow;
+}
+
+@media screen and (max-width: 800px) {
+    .info{
+        width: 100%;
+    }
+}
